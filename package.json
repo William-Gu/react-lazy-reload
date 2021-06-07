@@ -1,0 +1,23 @@
+{
+  "name": "react-lazy-reload",
+  "version": "0.1.0",
+  "description": "Reload lazy component in react project",
+  "keywords": [
+    "react",
+    "component",
+    "lazy",
+    "reload"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/William-Gu/react-lazy-reload"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "react": "^16.0.0"
+  },
+  "author": "William Koo",
+  "license": "MIT"
+}
